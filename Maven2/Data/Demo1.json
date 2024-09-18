@@ -1,0 +1,13 @@
+{
+"name":"Qspiders",
+"url":"https://www.facebook.com",
+"email":"qspiders@gmail.com",
+"password":9865329865,
+"boolean":true,
+"hobbies":["songs","movies"]
+"songs":{
+	"song":"Hi",
+	"song1":"hello"
+	},
+"cars":[{"car":"bmw"},{"car1":"audi"}]
+}
