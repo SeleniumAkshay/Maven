@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-03T08:16:58 IST" name="Default suite" finished-at="2024-07-03T08:16:58 IST" duration-ms="68">
+  <suite started-at="2024-11-12T16:26:15 IST" name="Default suite" finished-at="2024-11-12T16:26:42 IST" duration-ms="27624">
     <groups>
     </groups>
-    <test started-at="2024-07-03T08:16:58 IST" name="Default test" finished-at="2024-07-03T08:16:58 IST" duration-ms="68">
-      <class name="Selenium1.CsvEx">
-        <test-method signature="demo()[pri:0, instance:Selenium1.CsvEx@2a3b5b47]" started-at="2024-07-03T08:16:58 IST" name="demo" finished-at="2024-07-03T08:16:58 IST" duration-ms="28" status="PASS">
+    <test started-at="2024-11-12T16:26:15 IST" name="Default test" finished-at="2024-11-12T16:26:42 IST" duration-ms="27624">
+      <class name="New_WebSites.Qspiders_Fee">
+        <test-method signature="fee()[pri:0, instance:New_WebSites.Qspiders_Fee@55b699ef]" started-at="2024-11-12T16:26:15 IST" name="fee" finished-at="2024-11-12T16:26:42 IST" duration-ms="27519" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- demo -->
-      </class> <!-- Selenium1.CsvEx -->
+        </test-method> <!-- fee -->
+      </class> <!-- New_WebSites.Qspiders_Fee -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

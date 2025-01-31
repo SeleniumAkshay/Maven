@@ -27,9 +27,9 @@ public class Sangeetha_Mobiles {
 		Actions act=new Actions(driver);
 		act.scrollToElement(ele).perform();
 		ele.click();
-		
-		driver.findElement(By.xpath("(//img[@class='img-fluid'])[3]")).click();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
+//		driver.findElement(By.xpath("(//h2[contains(text(),'Realme')])[1]")).click();
+//		Thread.sleep(2000);
 		driver.findElement(By.xpath("//h2[contains(text(),'Realme')]")).click();
 		WebElement ele1 = driver.findElement(By.xpath("//span[text()='Add to Cart']"));
 		act.scrollToElement(ele1).perform();
